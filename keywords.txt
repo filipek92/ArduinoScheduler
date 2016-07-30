@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Scheduler
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Scheduler KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+addService	KEYWORD2
+doWork	KEYWORD2
+setPeriod	KEYWORD2
+removeService	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SERVICES_COUNT  LITERAL1
+PERIOD_MODE     LITERAL1
+COUNT_MODE      LITERAL1
+AS_FAST_AS_POS  LITERAL1
